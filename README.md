@@ -1,6 +1,6 @@
 # COBS
 
-## R code, functions, and data for the paper "Covariate-driven factorization by thresholding for multi-blick data" by Xing Gao, Sungwon Lee, Gen Li, and Sungkyu Jung
+R code, functions, and data for the paper "Covariate-driven factorization by thresholding for multi-blick data" by Xing Gao, Sungwon Lee, Gen Li, and Sungkyu Jung
 
 ## Main functions to apply COBS 
 
